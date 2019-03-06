@@ -23,6 +23,7 @@ public class GitHub_Study {
     public static void main(String[] args) {
         System.out.println("Hello GitHub!");
         //first Change
+        //Second Change
 
     }
 
