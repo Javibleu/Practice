@@ -21,6 +21,8 @@ public class StudentArray
         studentList[3] = new StudentDemo("4", "Dwight Schrute");
         studentList[4] = new StudentDemo("5", "Toby Flendersen");
         studentList[5] = new StudentDemo("6", "Javi Nievas");
+        studentList[5] = new StudentDemo("7", "Alberto Closas");
+        
         
         
         for(int i=0; i<studentList.length; i++)
