@@ -23,6 +23,7 @@ public class StudentArray
         studentList[5] = new StudentDemo("6", "Javi Nievas");
         studentList[5] = new StudentDemo("7", "Alberto Closas");
         studentList[5] = new StudentDemo("8", "Alberto Migre");
+        System.out.println("Part Time Student");
         
         
         
